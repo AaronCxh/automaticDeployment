@@ -1,0 +1,19 @@
+{
+  "name": "automaticDeployment",
+  "version": "1.0.0",
+  "description": "自动化部署",
+  "main": "index.js",
+  "author": "cxh",
+  "license": "MIT",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "scripts": {
+    "commit": "cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
