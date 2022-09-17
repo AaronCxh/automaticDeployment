@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/AaronCxh/automaticDeployment/compare/v1.1.0...v1.2.0) (2022-09-17)
+
+
+### Bug Fixes
+
+* **修复微信端:** 修复信用付后无法微信支付 ([73015d8](https://github.com/AaronCxh/automaticDeployment/commit/73015d8f6c8266a6cc8acea25fb9b080b4386292))
+
+
+
 # 1.1.0 (2022-09-17)
 
 
