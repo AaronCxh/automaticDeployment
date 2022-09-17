@@ -9,7 +9,11 @@
     "cz-conventional-changelog": "^3.3.0"
   },
   "scripts": {
-    "commit": "cz"
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "deploy": "node deploy",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "postversion": "npm run deploy"
   },
   "config": {
     "commitizen": {
