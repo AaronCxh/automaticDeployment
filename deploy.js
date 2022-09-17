@@ -8,3 +8,4 @@ execFile("deploy.sh", [version], { shell: true }, (err, stdout, stderr) => {
   }
   console.log(stdout);
 });
+ 
