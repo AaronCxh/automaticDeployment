@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/AaronCxh/automaticDeployment/compare/v1.5.0...v1.6.0) (2022-11-10)
+
+
+### Features
+
+* 修复一些东西 ([4fb0e98](https://github.com/AaronCxh/automaticDeployment/commit/4fb0e9874689d526cf0c8c5a529d7e96ae6a1c52))
+
+
+### BREAKING CHANGES
+
+* 这是什么东西
+
+
+
 # [1.5.0](https://github.com/AaronCxh/automaticDeployment/compare/v1.4.0...v1.5.0) (2022-11-10)
 
 
